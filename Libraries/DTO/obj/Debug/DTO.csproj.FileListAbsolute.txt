@@ -1,0 +1,25 @@
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.dll
+D:\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.pdb
+D:\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.dll
+D:\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\System.Net.Http.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Debug\DTO.csproj.CopyComplete

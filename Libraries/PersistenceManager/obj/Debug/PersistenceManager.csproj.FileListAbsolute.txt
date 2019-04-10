@@ -1,0 +1,110 @@
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\bin\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\bin\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\obj\Debug\PersistenceManager.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\obj\Debug\PersistenceManager.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\obj\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\SkyboWatch\PersistenceManager\obj\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll.config
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\AutoMapper.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\log4net.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\SkyboDTO.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\SkyboUtility.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.AppContext.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Console.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Data.Common.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Globalization.Calendars.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.IO.Compression.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.IO.FileSystem.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Net.Http.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Net.Sockets.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Reflection.TypeExtensions.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Xml.ReaderWriter.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\SkyboDTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\SkyboUtility.pdb
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\SkyboUtility.dll.config
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\AutoMapper.xml
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\log4net.xml
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\obj\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\Libraries\PersistenceManager\obj\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.IO.Compression.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\log4net.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.pdb
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\log4net.config
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll.config
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.pdb
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.IO.Compression.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.pdb
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll.config
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.xml
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.xml
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.xml
+D:\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.pdb
+D:\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csprojResolveAssemblyReference.cache
+D:\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CoreCompileInputs.cache
+D:\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CopyComplete
+D:\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.dll
+D:\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\log4net.config
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll.config
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\PersistenceManager.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.IO.Compression.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.Net.Http.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Utility.dll.config
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Google.Protobuf.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\MySql.Data.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\bin\Debug\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CoreCompileInputs.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csprojAssemblyReference.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\obj\Debug\PersistenceManager.csproj.CopyComplete

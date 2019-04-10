@@ -1,0 +1,62 @@
+2018-12-22 23:14:33,755 [6] INFO - Enter Get All Locations
+2018-12-22 23:14:36,152 [6] ERROR - Error in Get All Locations :: Retrieval of the RSA public key is not enabled for insecure connections.
+ Caused By :-    at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PersistenceManager.DBUtility.ExecuteQuery(String procedure) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\DBManager\DBUtility.cs:line 126
+   at WebAPIDemo.LocationMgt.PersistentHelper.GetAllLocation() in H:\Nikita\medical logistics\Nikita\WebAPI\WebAPIDemo\WebAPIDemo\LocationMgt\PersistentHelper.cs:line 27
+2018-12-22 23:19:18,604 [6] INFO - Enter Get All Locations
+2018-12-22 23:19:40,133 [6] ERROR - Error in Get All Locations :: Retrieval of the RSA public key is not enabled for insecure connections.
+ Caused By :-    at MySql.Data.MySqlClient.Authentication.CachingSha2AuthenticationPlugin.GeneratePassword()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ContinueAuthentication(Byte[] data)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at PersistenceManager.DBUtility.ExecuteQuery(String procedure) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\PersistenceManager\DBManager\DBUtility.cs:line 126
+   at WebAPIDemo.LocationMgt.PersistentHelper.GetAllLocation() in H:\Nikita\medical logistics\Nikita\WebAPI\WebAPIDemo\WebAPIDemo\LocationMgt\PersistentHelper.cs:line 27
+2018-12-22 23:20:08,451 [8] INFO - Enter Get All Locations
+2018-12-22 23:21:48,117 [8] INFO - Enter Get All Locations
+2018-12-22 23:23:19,911 [7] INFO - Enter Get All Locations
+2018-12-22 23:24:46,621 [6] INFO - Enter Get All Locations
+2018-12-22 23:24:46,780 [6] ERROR - Error in Get All Locations :: in mapper :: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 26 
+ line number 26 
+ line number text 26
+ Caused By :-    at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 45
+   at WebAPIDemo.LocationMgt.PersistentHelper.GetAllLocation() in H:\Nikita\medical logistics\Nikita\WebAPI\WebAPIDemo\WebAPIDemo\LocationMgt\PersistentHelper.cs:line 35
+2018-12-22 23:33:34,858 [35] INFO - Enter Get All Locations
+2018-12-22 23:33:35,549 [35] ERROR - Error in Get All Locations :: in mapper :: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 26 
+ line number 26 
+ line number text 26
+ Caused By :-    at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 45
+   at WebAPIDemo.LocationMgt.PersistentHelper.GetAllLocation() in H:\Nikita\medical logistics\Nikita\WebAPI\WebAPIDemo\WebAPIDemo\LocationMgt\PersistentHelper.cs:line 35
+2018-12-22 23:37:35,216 [45] INFO - Enter Get All Locations
+2018-12-22 23:38:33,230 [36] INFO - Enter Get All Locations
+2018-12-22 23:38:33,769 [36] ERROR - Error in Get All Locations :: in mapper :: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 26 
+ line number 26 
+ line number text 26
+ Caused By :-    at Utility.DTOMapper.Mapper(Dictionary`2 SourceDTO, Object DestinationDto, SBMapper map) in H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\DTOMapper.cs:line 45
+   at WebAPIDemo.LocationMgt.PersistentHelper.GetAllLocation() in H:\Nikita\medical logistics\Nikita\WebAPI\WebAPIDemo\WebAPIDemo\LocationMgt\PersistentHelper.cs:line 35
+2018-12-22 23:39:33,641 [49] INFO - Enter Get All Locations
+2018-12-22 23:41:10,996 [57] INFO - Enter Get All Locations
+2018-12-22 23:41:20,144 [52] INFO - Enter Get All Locations
+2018-12-23 02:46:55,213 [6] INFO - Enter Get All Locations

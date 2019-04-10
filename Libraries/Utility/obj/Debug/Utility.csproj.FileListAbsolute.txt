@@ -1,0 +1,49 @@
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.xml
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll.config
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.pdb
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.config
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll.config
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.pdb
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.dll
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.dll
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.dll
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.pdb
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.xml
+D:\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.xml
+D:\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+D:\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+D:\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csproj.CopyComplete
+D:\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.dll
+D:\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.config
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll.config
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\Utility.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\System.Net.Http.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\log4net.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\bin\Debug\Newtonsoft.Json.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csprojAssemblyReference.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\Utility\obj\Debug\Utility.csproj.CopyComplete

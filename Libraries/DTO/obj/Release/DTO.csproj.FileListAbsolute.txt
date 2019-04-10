@@ -1,0 +1,20 @@
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.pdb
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csprojResolveAssemblyReference.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.dll
+H:\Nikita\Workspace\NewWorkspace\Application\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\System.Net.Http.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\System.Security.Cryptography.Algorithms.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\System.Security.Cryptography.Encoding.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\System.Security.Cryptography.Primitives.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\System.Security.Cryptography.X509Certificates.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.pdb
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\Newtonsoft.Json.dll
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\bin\Release\Newtonsoft.Json.xml
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+H:\Nikita\medical logistics\Nikita\MedicinalLogistics\Libraries\DTO\obj\Release\DTO.csproj.CopyComplete
